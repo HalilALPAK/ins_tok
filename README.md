@@ -11,7 +11,7 @@ Bu proje, Flask tabanlı bir sosyal medya uygulamasıdır. Kullanıcılar kayıt
 - Diğer kullanıcıları takip etme/bırakma
 - Gönderi beğenme ve beğenmekten vazgeçme
 - Tüm gönderileri listeleme
-
+-analiz.py dosyasında analiz etme
 ## Kurulum
 
 1. **Gerekli paketleri yükleyin:**
