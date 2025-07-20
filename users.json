@@ -1,0 +1,1030 @@
+{
+  "halil": {
+    "email": "halil@gmail.com",
+    "password": "12345678",
+    "profile_photo": "",
+    "followers": 0,
+    "following": 0,
+    "posts": [],
+    "followers_list": [],
+    "following_list": [],
+    "likes": []
+  },
+  "aaa": {
+    "email": "aaa@gmail.com",
+    "password": "0987654",
+    "profile_photo": "",
+    "followers": 0,
+    "following": 0,
+    "posts": [],
+    "followers_list": [],
+    "following_list": [],
+    "likes": []
+  },
+  "bbb": {
+    "email": "bbb@gmail.com",
+    "password": "1234567",
+    "profile_photo": "bbb_profile_ikarus.jpeg",
+    "followers": 0,
+    "following": 1,
+    "posts": [
+      {
+        "media": "bbb_post_artwork-samurai-trees-tv-wallpaper-preview.jpg",
+        "note": "afwfawf",
+        "hashtags": "#fafawfdwaf",
+        "type": "image"
+      },
+      {
+        "media": "bbb_post_otonom.jpg",
+        "note": "dsegfeswwf",
+        "hashtags": "#sgfesafawefw",
+        "type": "image"
+      }
+    ],
+    "followers_list": [],
+    "following_list": [
+      "jjj"
+    ],
+    "likes": [
+      {
+        "post_owner": "jjj",
+        "media": "jjj_post_cb7e9fd9d24cb525aaa275a1c5dffd37.jpg",
+        "note": "dsgsde",
+        "hashtags": "#sdgsdg",
+        "type": "image",
+        "liked": false
+      },
+      {
+        "post_owner": "kkk",
+        "media": "kkk_post_kural.PNG",
+        "note": "afasf",
+        "hashtags": "#sgsdfes",
+        "type": "image",
+        "liked": true
+      },
+      {
+        "post_owner": "user4",
+        "media": "user4_post_plants.jpg",
+        "note": "Bitkiler Ä±ÅŸÄ±k enerjisini kimyasal enerjiye Ã§evirir.",
+        "hashtags": "#bitkiler #fotosentez",
+        "type": "image",
+        "liked": true
+      },
+      {
+        "post_owner": "user4",
+        "media": "user4_post_space.jpg",
+        "note": "Uzay araÅŸtÄ±rmalarÄ± insanlÄ±k iÃ§in yeni bir Ã§aÄŸÄ± baÅŸlatabilir.",
+        "hashtags": "#uzay #araÅŸtÄ±rma",
+        "type": "image",
+        "liked": true
+      },
+      {
+        "post_owner": "user5",
+        "media": "user5_post_volleyball.jpg",
+        "note": "Voleybol servisleri takÄ±mÄ±n hÃ¼cumunu baÅŸlatÄ±r.",
+        "hashtags": "#voleybol #servis",
+        "type": "image",
+        "liked": true
+      },
+      {
+        "post_owner": "user3",
+        "media": "user3_post_chemistry.jpg",
+        "note": "Kimyasal tepkimeler sÄ±rasÄ±nda Ä±sÄ± aÃ§Ä±ÄŸa Ã§Ä±kar.",
+        "hashtags": "#kimya #tepkime",
+        "type": "image",
+        "liked": false
+      },
+      {
+        "post_owner": "user1",
+        "media": "user1_post_math.jpg",
+        "note": "Matematiksel analiz konusunu bu dÃ¶nem detaylÄ± inceledik.",
+        "hashtags": "#matematik #analiz",
+        "type": "image",
+        "liked": true
+      },
+      {
+        "post_owner": "user2",
+        "media": "user2_post_physics.jpg",
+        "note": "Fizik dersinde yer Ã§ekimi kuvvetini Ã¶ÄŸrendik.",
+        "hashtags": "#fizik #yerÃ§ekimi",
+        "type": "image",
+        "liked": true
+      },
+      {
+        "post_owner": "user2",
+        "media": "user2_post_turkish.jpg",
+        "note": "TÃ¼rkÃ§e dil bilgisi kurallarÄ±nÄ± Ã¶ÄŸrenmek iÃ§in alÄ±ÅŸtÄ±rmalar yaptÄ±m.",
+        "hashtags": "#tÃ¼rkÃ§e #dilbilgisi",
+        "type": "image",
+        "liked": false
+      },
+      {
+        "post_owner": "user5",
+        "media": "user5_post_basketball.jpg",
+        "note": "Basketbol maÃ§Ä±nda Ã¼Ã§ sayÄ±lÄ±k atÄ±ÅŸlarla fark aÃ§Ä±ldÄ±.",
+        "hashtags": "#basketbol #Ã¼Ã§sayÄ±",
+        "type": "image",
+        "liked": true
+      },
+      {
+        "post_owner": "user5",
+        "media": "user5_post_football.jpg",
+        "note": "Futbol takÄ±mÄ± bu sezon yenilgi almadÄ±.",
+        "hashtags": "#futbol #galibiyet",
+        "type": "image",
+        "liked": true
+      },
+      {
+        "post_owner": "user3",
+        "media": "user3_post_python.jpg",
+        "note": "Python programlama dili veri bilimi iÃ§in uygundur.",
+        "hashtags": "#python #veribilimi",
+        "type": "image",
+        "liked": true
+      }
+    ]
+  },
+  "jjj": {
+    "email": "jjj@gmail.com",
+    "password": "12345678",
+    "profile_photo": "jjj_profile_Ekran görüntüsü 2023-10-19 180559.png",
+    "followers": 2,
+    "following": 0,
+    "posts": [
+      {
+        "media": "jjj_post_cb7e9fd9d24cb525aaa275a1c5dffd37.jpg",
+        "note": "dsgsde",
+        "hashtags": "#sdgsdg",
+        "type": "image"
+      }
+    ],
+    "followers_list": [
+      "vvv",
+      "bbb"
+    ]
+  },
+  "kkk": {
+    "email": "kkk@gmail.com",
+    "password": "123456789",
+    "profile_photo": "",
+    "followers": 1,
+    "following": 0,
+    "posts": [
+      {
+        "media": "kkk_post_kural.PNG",
+        "note": "afasf",
+        "hashtags": "#sgsdfes",
+        "type": "image"
+      }
+    ],
+    "likes": [
+      {
+        "post_owner": "jjj",
+        "media": "jjj_post_cb7e9fd9d24cb525aaa275a1c5dffd37.jpg",
+        "note": "dsgsde",
+        "hashtags": "#sdgsdg",
+        "type": "image",
+        "liked": true
+      },
+      {
+        "post_owner": "bbb",
+        "media": "bbb_post_otonom.jpg",
+        "note": "dsegfeswwf",
+        "hashtags": "#sgfesafawefw",
+        "type": "image",
+        "liked": false
+      },
+      {
+        "post_owner": "bbb",
+        "media": "bbb_post_artwork-samurai-trees-tv-wallpaper-preview.jpg",
+        "note": "afwfawf",
+        "hashtags": "#fafawfdwaf",
+        "type": "image",
+        "liked": true
+      }
+    ],
+    "followers_list": [
+      "vvv"
+    ]
+  },
+  "ggg": {
+    "email": "ggg@mail.com",
+    "password": "1234567890",
+    "profile_photo": "",
+    "followers": 0,
+    "following": 0,
+    "posts": []
+  },
+  "lll": {
+    "email": "ll@gmail.com",
+    "password": "12345678",
+    "profile_photo": "",
+    "followers": 0,
+    "following": 0,
+    "posts": [],
+    "likes": [
+      {
+        "post_owner": "jjj",
+        "media": "jjj_post_cb7e9fd9d24cb525aaa275a1c5dffd37.jpg",
+        "note": "dsgsde",
+        "hashtags": "#sdgsdg",
+        "type": "image",
+        "liked": true
+      },
+      {
+        "post_owner": "bbb",
+        "media": "bbb_post_otonom.jpg",
+        "note": "dsegfeswwf",
+        "hashtags": "#sgfesafawefw",
+        "type": "image",
+        "liked": false
+      },
+      {
+        "post_owner": "bbb",
+        "media": "bbb_post_artwork-samurai-trees-tv-wallpaper-preview.jpg",
+        "note": "afwfawf",
+        "hashtags": "#fafawfdwaf",
+        "type": "image",
+        "liked": true
+      }
+    ]
+  },
+  "vvv": {
+    "email": "vvv@gmail.com",
+    "password": "123456",
+    "profile_photo": "",
+    "followers": 0,
+    "following": 2,
+    "posts": [],
+    "following_list": [
+      "kkk",
+      "jjj"
+    ],
+    "likes": [
+      {
+        "post_owner": "kkk",
+        "media": "kkk_post_kural.PNG",
+        "note": "afasf",
+        "hashtags": "#sgsdfes",
+        "type": "image",
+        "liked": true
+      }
+    ]
+  },
+  "user1": {
+    "email": "user1@gmail.com",
+    "password": "123456",
+    "profile_photo": "",
+    "followers": 3,
+    "following": 2,
+    "posts": [
+      {
+        "media": "user1_post_quantum.jpg",
+        "note": "Kuantum fiziÄŸinde parÃ§acÄ±klar aynÄ± anda iki yerde bulunabilir.",
+        "hashtags": "#kuantum #fizik #bilim #teknoloji",
+        "type": "image",
+        "views": 8
+      },
+      {
+        "media": "user1_post_ai_ethics.jpg",
+        "note": "Yapay zeka etiÄŸi konusunda tartÄ±ÅŸmalar sÃ¼rÃ¼ÅŸyor.",
+        "hashtags": "#yapayzeka #etik #felsefe #gelecek",
+        "type": "image",
+        "views": 12
+      },
+      {
+        "media": "user1_post_quantum.jpg",
+        "note": "Kuantum bilgisayarlar klasik bilgisayarlardan Ã§ok daha hÄ±zlÄ±.",
+        "hashtags": "#kuantum #bilgisayar #hız #devrim",
+        "type": "image",
+        "views": 15
+      },
+      {
+        "media": "user1_post_ai_ethics.jpg",
+        "note": "Makine Ã¶ÄŸrenimi algoritmalarÄ± veri setlerine baÄŸlÄ±dÄ±r.",
+        "hashtags": "#makineÃ¶ÄŸrenimi #algoritma #veri #analiz",
+        "type": "image",
+        "views": 9
+      },
+      {
+        "media": "user1_post_quantum.jpg",
+        "note": "Kuantum kriptografi gÃ¼venli iletiÅŸim saÄŸlar.",
+        "hashtags": "#kuantum #kriptografi #güvenlik #şifreleme",
+        "type": "image",
+        "views": 6
+      },
+      {
+        "media": "user1_post_ai_ethics.jpg",
+        "note": "Derin Ã¶ÄŸrenme sinir aÄŸlarÄ± kullanÄ±r.",
+        "hashtags": "#derinÃ¶ÄŸrenme #siniraÄŸÄ± #yapayzeka #öğrenme",
+        "type": "image",
+        "views": 11
+      },
+      {
+        "media": "user1_post_quantum.jpg",
+        "note": "Kuantum dolanÄ±klÄ±k uzak mesafelerde bile korunur.",
+        "hashtags": "#kuantum #dolanÄ±klÄ±k #fizik #mucize",
+        "type": "image",
+        "views": 7
+      },
+      {
+        "media": "user1_post_ai_ethics.jpg",
+        "note": "DoÄŸal dil iÅŸleme insan dilini anlayabilir.",
+        "hashtags": "#doÄŸaldil #nlp #dil #anlama",
+        "type": "image",
+        "views": 13
+      },
+      {
+        "media": "user1_post_quantum.jpg",
+        "note": "Kuantum teleportasyon bilgi aktarÄ±mÄ±nÄ± saÄŸlar.",
+        "hashtags": "#kuantum #teleportasyon #bilgi #aktarım",
+        "type": "image",
+        "views": 10
+      },
+      {
+        "media": "user1_post_ai_ethics.jpg",
+        "note": "Yapay zeka karar verme sÃ¼rÃ¼ÅŸlerini iyileÅŸtirir.",
+        "hashtags": "#yapayzeka #karar #algoritma #optimizasyon",
+        "type": "image",
+        "views": 8
+      },
+      {
+        "media": "user1_post_quantum.jpg",
+        "note": "Kuantum süperpozisyon durumu gözlemle değişir.",
+        "hashtags": "#kuantum #süperpozisyon #gözlem #ölçüm",
+        "type": "image",
+        "views": 14
+      },
+      {
+        "media": "user1_post_ai_ethics.jpg",
+        "note": "Yapay zeka görüntü işleme teknolojileri gelişiyor.",
+        "hashtags": "#yapayzeka #görüntü #işleme #teknoloji",
+        "type": "image",
+        "views": 16
+      },
+      {
+        "media": "user1_post_quantum.jpg",
+        "note": "Kuantum hesaplama klasik hesaplamayı aşacak.",
+        "hashtags": "#kuantum #hesaplama #bilgisayar #gelecek",
+        "type": "image",
+        "views": 12
+      },
+      {
+        "media": "user1_post_ai_ethics.jpg",
+        "note": "Makine öğrenimi sağlık alanında devrim yaratıyor.",
+        "hashtags": "#makineöğrenimi #sağlık #teknoloji #tıp",
+        "type": "image",
+        "views": 19
+      },
+      {
+        "media": "user1_post_quantum.jpg",
+        "note": "Kuantum internet güvenli iletişimin geleceği.",
+        "hashtags": "#kuantum #internet #güvenlik #iletişim",
+        "type": "image",
+        "views": 11
+      }
+    ],
+    "following_list": [
+      "user2",
+      "user3"
+    ],
+    "followers_list": [
+      "user4",
+      "user5",
+      "halil"
+    ],
+    "likes": [
+      {
+        "post_owner": "user2",
+        "media": "user2_post_physics.jpg",
+        "note": "Fizik dersinde yer Ã§ekimi kuvvetini Ã¶ÄŸrendik.",
+        "hashtags": "#fizik #yerÃ§ekimi",
+        "type": "image",
+        "liked": true,
+        "views": 4
+      },
+      {
+        "post_owner": "user3",
+        "media": "user3_post_chemistry.jpg",
+        "note": "Kimyasal tepkimeler sÄ±rasÄ±nda Ä±sÄ± aÃ§Ä±ÄŸa Ã§Ä±kar.",
+        "hashtags": "#kimya #tepkime",
+        "type": "image",
+        "liked": false,
+        "views": 9
+      }
+    ]
+  },
+  "user2": {
+    "email": "user2@gmail.com",
+    "password": "123456",
+    "profile_photo": "",
+    "followers": 4,
+    "following": 1,
+    "posts": [
+      {
+        "media": "user2_post_soccer.jpg",
+        "note": "Futbol maÃ§Ä±nda gol atÄ±ÅŸÄ± baÅŸarÄ±yla tamamladÄ±k.",
+        "hashtags": "#futbol #gol #spor #başarı",
+        "type": "image",
+        "views": 14
+      },
+      {
+        "media": "user2_post_soccer.jpg",
+        "note": "PenaltÄ± atÄ±ÅŸÄ±nda kalecinin hareketi Ã¶nemlidir.",
+        "hashtags": "#futbol #penaltÄ± #kaleci #teknik",
+        "type": "image",
+        "views": 9
+      },
+      {
+        "media": "user2_post_soccer.jpg",
+        "note": "Serbest vuruÅŸ teknikleri antrenmanda Ã¶ÄŸrenilir.",
+        "hashtags": "#futbol #serbestvuruÅŸ #antrenman #teknik",
+        "type": "image",
+        "views": 11
+      },
+      {
+        "media": "user2_post_soccer.jpg",
+        "note": "Korner vuruÅŸlarÄ±nda taktiksel pozisyon alma Ã¶nemlidir.",
+        "hashtags": "#futbol #korner #taktik #pozisyon",
+        "type": "image",
+        "views": 7
+      },
+      {
+        "media": "user2_post_soccer.jpg",
+        "note": "Ofsayt kuralÄ± maÃ§Ä±n akÄ±ÅŸÄ±nÄ± etkiler.",
+        "hashtags": "#futbol #ofsayt #kural #oyun",
+        "type": "image",
+        "views": 12
+      },
+      {
+        "media": "user2_post_soccer.jpg",
+        "note": "Sarı kart uyarÄ±sÄ± oyuncunun davranÄ±ÅŸÄ±nÄ± kontrol eder.",
+        "hashtags": "#futbol #sarıkart #uyarı #davranış",
+        "type": "image",
+        "views": 8
+      },
+      {
+        "media": "user2_post_soccer.jpg",
+        "note": "KÃ¼kÃ¼rler maÃ§Ä±n atmosferini yaratÄ±r.",
+        "hashtags": "#futbol #kÃ¼kÃ¼r #atmosfer #heyecan",
+        "type": "image",
+        "views": 15
+      },
+      {
+        "media": "user2_post_soccer.jpg",
+        "note": "Teknik direktÃ¶r taktik deÄŸiÅŸikliÄ±i yapabilir.",
+        "hashtags": "#futbol #teknikdirektÃ¶r #taktik #strateji",
+        "type": "image",
+        "views": 6
+      },
+      {
+        "media": "user2_post_soccer.jpg",
+        "note": "Deplasman maÃ§Ä±nda zorlu koÅŸullar yaÅŸanÄ±r.",
+        "hashtags": "#futbol #deplasman #zorluk #mücadele",
+        "type": "image",
+        "views": 10
+      },
+      {
+        "media": "user2_post_soccer.jpg",
+        "note": "Derbi maÃ§larÄ±nda heyecan doruk noktasÄ±na Ã§Ä±kar.",
+        "hashtags": "#futbol #derbi #heyecan #rivalite",
+        "type": "image",
+        "views": 13
+      },
+      {
+        "media": "user2_post_soccer.jpg",
+        "note": "Futbol sahasında top kontrolü çok önemlidir.",
+        "hashtags": "#futbol #topkontrolü #teknik #beceri",
+        "type": "image",
+        "views": 16
+      },
+      {
+        "media": "user2_post_soccer.jpg",
+        "note": "Pas verme teknikleri takım oyununu geliştirir.",
+        "hashtags": "#futbol #pas #takım #oyun",
+        "type": "image",
+        "views": 11
+      },
+      {
+        "media": "user2_post_soccer.jpg",
+        "note": "Şut çekme teknikleri gol atma şansını artırır.",
+        "hashtags": "#futbol #şut #gol #teknik",
+        "type": "image",
+        "views": 14
+      },
+      {
+        "media": "user2_post_soccer.jpg",
+        "note": "Savunma pozisyonları takım güvenliğini sağlar.",
+        "hashtags": "#futbol #savunma #güvenlik #pozisyon",
+        "type": "image",
+        "views": 9
+      },
+      {
+        "media": "user2_post_soccer.jpg",
+        "note": "Hücum organizasyonu gol fırsatları yaratır.",
+        "hashtags": "#futbol #hücum #organizasyon #fırsat",
+        "type": "image",
+        "views": 12
+      }
+    ],
+    "following_list": [
+      "user1"
+    ],
+    "followers_list": [
+      "user3",
+      "user4",
+      "user5",
+      "aaa"
+    ],
+    "likes": [
+      {
+        "post_owner": "user1",
+        "media": "user1_post_math.jpg",
+        "note": "Matematiksel analiz konusunu bu dÃ¶nem detaylÄ± inceledik.",
+        "hashtags": "#matematik #analiz",
+        "type": "image",
+        "liked": true,
+        "views": 7
+      },
+      {
+        "post_owner": "user4",
+        "media": "user4_post_space.jpg",
+        "note": "Uzay araÅŸtÄ±rmalarÄ± insanlÄ±k iÃ§in yeni bir Ã§aÄŸÄ± baÅŸlatabilir.",
+        "hashtags": "#uzay #araÅŸtÄ±rma",
+        "type": "image",
+        "liked": true,
+        "views": 8
+      },
+      {
+        "post_owner": "user4",
+        "media": "user4_post_force.jpg",
+        "note": "Kuvvet ve ivme arasÄ±ndaki iliÅŸki fizik konusudur.",
+        "hashtags": "#kuvvet #ivme",
+        "type": "image",
+        "liked": true
+      },
+      {
+        "post_owner": "user4",
+        "media": "user4_post_spelling.jpg",
+        "note": "TÃ¼rkÃ§e'de yazÄ±m yanlÄ±ÅŸlarÄ± anlamÄ± tamamen deÄŸiÅŸtirebilir.",
+        "hashtags": "#yazÄ±m #yanlÄ±ÅŸ",
+        "type": "image",
+        "liked": true
+      },
+      {
+        "post_owner": "user4",
+        "media": "user4_post_midfield.jpg",
+        "note": "Futbol maÃ§Ä±nda orta saha oyuncularÄ± Ã§ok Ã§alÄ±ÅŸtÄ±.",
+        "hashtags": "#futbol #ortasaha",
+        "type": "image",
+        "liked": true
+      },
+      {
+        "post_owner": "user4",
+        "media": "user4_post_volleyball_service.jpg",
+        "note": "Voleybol servis hatalarÄ± set kaybettirir.",
+        "hashtags": "#voleybol #servis",
+        "type": "image",
+        "liked": true
+      },
+      {
+        "post_owner": "user5",
+        "media": "user5_post_nature_walk.jpg",
+        "note": "DoÄŸada yapÄ±lan yÃ¼rÃ¼yÃ¼ÅŸler insan saÄŸlÄ±ÄŸÄ±na faydalÄ±dÄ±r.",
+        "hashtags": "#doÄŸa #saÄŸlÄ±k",
+        "type": "image",
+        "liked": true
+      },
+      {
+        "post_owner": "user5",
+        "media": "user5_post_animals.jpg",
+        "note": "Hayvanlar doÄŸal ortamlarÄ±nda daha Ã¶zgÃ¼rdÃ¼r.",
+        "hashtags": "#hayvan #doÄŸa",
+        "type": "image",
+        "liked": true
+      },
+      {
+        "post_owner": "user5",
+        "media": "user5_post_archery_gold.jpg",
+        "note": "OkÃ§uluk yarÄ±ÅŸmasÄ±nda altÄ±n madalya kazandÄ±k.",
+        "hashtags": "#okÃ§uluk #madalya",
+        "type": "image",
+        "liked": true
+      },
+      {
+        "post_owner": "user5",
+        "media": "user5_post_algorithm.jpg",
+        "note": "Algoritma geliÅŸtirmek iÃ§in mantÄ±ksal dÃ¼ÅŸÄ±nce gerekir.",
+        "hashtags": "#algoritma #mantÄ±k",
+        "type": "image",
+        "liked": true
+      },
+      {
+        "post_owner": "user5",
+        "media": "user5_post_tennis_racket.jpg",
+        "note": "Tenis oynarken raket seÃ§imi Ã¶nemlidir.",
+        "hashtags": "#tenis #raket",
+        "type": "image",
+        "liked": true
+      }
+    ]
+  },
+  "user3": {
+    "email": "user3@gmail.com",
+    "password": "123456",
+    "profile_photo": "",
+    "followers": 2,
+    "following": 3,
+    "posts": [
+      {
+        "media": "user3_post_cooking.jpg",
+        "note": "Mutfakta yemek yaparken malzemelerin taze olmasÄ± Ã¶nemlidir.",
+        "hashtags": "#mutfak #yemek #taze #malzeme",
+        "type": "image",
+        "views": 16
+      },
+      {
+        "media": "user3_post_cooking.jpg",
+        "note": "Baharatlar yemeÄŸin lezzetini artÄ±rÄ±r.",
+        "hashtags": "#baharat #lezzet #aroma #tat",
+        "type": "image",
+        "views": 11
+      },
+      {
+        "media": "user3_post_cooking.jpg",
+        "note": "FÃ¶rÄ±n sÄ±caklÄ±ÄŸÄ± ayarlamak piÅŸirme iÅŸlemi iÃ§in kritiktir.",
+        "hashtags": "#fÃ¶rÄ±n #sÄ±caklÄ±k #pişirme #kontrol",
+        "type": "image",
+        "views": 8
+      },
+      {
+        "media": "user3_post_cooking.jpg",
+        "note": "Sebzeleri doÄŸru ÅŸekilde kesmek yemeÄŸin gÃ¶rÃ¼nÃ¼mÃ¼nÄ± etkiler.",
+        "hashtags": "#sebze #kesme #görünüm #teknik",
+        "type": "image",
+        "views": 13
+      },
+      {
+        "media": "user3_post_cooking.jpg",
+        "note": "Et piÅŸirirken sÄ±caklÄ±k kontrolÃ¼ Ã§ok Ã¶nemlidir.",
+        "hashtags": "#et #piÅŸirme #sıcaklık #kontrol",
+        "type": "image",
+        "views": 9
+      },
+      {
+        "media": "user3_post_cooking.jpg",
+        "note": "Sos yaparken malzemelerin oranÄ± dengeli olmalÄ±dÄ±r.",
+        "hashtags": "#sos #oran #denge #malzeme",
+        "type": "image",
+        "views": 12
+      },
+      {
+        "media": "user3_post_cooking.jpg",
+        "note": "TatlÄ± yaparken ÅŸeker miktarÄ±na dikkat etmek gerekir.",
+        "hashtags": "#tatlÄ± #ÅŸeker #miktar #dikkat",
+        "type": "image",
+        "views": 7
+      },
+      {
+        "media": "user3_post_cooking.jpg",
+        "note": "Salata yaparken sebzelerin ÅŸiÅŸliÄŸi Ã¶nemlidir.",
+        "hashtags": "#salata #ÅŸiÅŸliÄŸ #sebze #taze",
+        "type": "image",
+        "views": 10
+      },
+      {
+        "media": "user3_post_cooking.jpg",
+        "note": "Pilav yaparken su miktarÄ±nÄ± ayarlamak kritiktir.",
+        "hashtags": "#pilav #su #miktar #ayarlama",
+        "type": "image",
+        "views": 14
+      },
+      {
+        "media": "user3_post_cooking.jpg",
+        "note": "Çorba yaparken malzemelerin sÄ±rasÄ± Ã¶nemlidir.",
+        "hashtags": "#çorba #sÄ±ra #malzeme #sıralama",
+        "type": "image",
+        "views": 6
+      },
+      {
+        "media": "user3_post_cooking.jpg",
+        "note": "Kek yaparken un ve yumurta oranı çok önemlidir.",
+        "hashtags": "#kek #un #yumurta #oran",
+        "type": "image",
+        "views": 15
+      },
+      {
+        "media": "user3_post_cooking.jpg",
+        "note": "Pizza hamuru yoğururken su miktarı kritiktir.",
+        "hashtags": "#pizza #hamur #yoğurma #su",
+        "type": "image",
+        "views": 18
+      },
+      {
+        "media": "user3_post_cooking.jpg",
+        "note": "Makarna pişirirken tuzlu su kullanmak gerekir.",
+        "hashtags": "#makarna #tuz #su #pişirme",
+        "type": "image",
+        "views": 12
+      },
+      {
+        "media": "user3_post_cooking.jpg",
+        "note": "Balık pişirirken ısı kontrolü çok önemlidir.",
+        "hashtags": "#balık #ısı #kontrol #pişirme",
+        "type": "image",
+        "views": 9
+      },
+      {
+        "media": "user3_post_cooking.jpg",
+        "note": "Tavuk eti pişirirken iç sıcaklığı kontrol etmek gerekir.",
+        "hashtags": "#tavuk #içsıcaklık #kontrol #güvenlik",
+        "type": "image",
+        "views": 11
+      }
+    ],
+    "following_list": [
+      "user1",
+      "user2",
+      "user5"
+    ],
+    "followers_list": [
+      "user2",
+      "ggg"
+    ],
+    "likes": [
+      {
+        "post_owner": "user5",
+        "media": "user5_post_basketball.jpg",
+        "note": "Basketbol maÃ§Ä±nda Ã¼Ã§ sayÄ±lÄ±k atÄ±ÅŸlarla fark aÃ§Ä±ldÄ±.",
+        "hashtags": "#basketbol #Ã¼Ã§sayÄ±",
+        "type": "image",
+        "liked": true,
+        "views": 3
+      },
+      {
+        "post_owner": "user1",
+        "media": "user1_post_math.jpg",
+        "note": "Matematiksel analiz konusunu bu dÃ¶nem detaylÄ± inceledik.",
+        "hashtags": "#matematik #analiz",
+        "type": "image",
+        "liked": false,
+        "views": 7
+      }
+    ]
+  },
+  "user4": {
+    "email": "user4@gmail.com",
+    "password": "123456",
+    "profile_photo": "",
+    "followers": 1,
+    "following": 2,
+    "posts": [
+      {
+        "media": "user4_post_music.jpg",
+        "note": "Müzik notalarÄ±nÄ± okumak iÅŸin pratik gerekir.",
+        "hashtags": "#müzik #nota #okuma #pratik",
+        "type": "image",
+        "views": 18
+      },
+      {
+        "media": "user4_post_music.jpg",
+        "note": "Piyano Ã§almak parmak koordinasyonu gerektirir.",
+        "hashtags": "#piyano #koordinasyon #parmak #teknik",
+        "type": "image",
+        "views": 22
+      },
+      {
+        "media": "user4_post_music.jpg",
+        "note": "Gitar akordu yaparken tellerin gerginliÄŸi Ã¶nemlidir.",
+        "hashtags": "#gitar #akort #teller #gerginlik",
+        "type": "image",
+        "views": 15
+      },
+      {
+        "media": "user4_post_music.jpg",
+        "note": "Keman Ã§alarken yay tekniÄŸi kritiktir.",
+        "hashtags": "#keman #yay #teknik #çalma",
+        "type": "image",
+        "views": 19
+      },
+      {
+        "media": "user4_post_music.jpg",
+        "note": "Bateri Ã§almak ritim duygusu gerektirir.",
+        "hashtags": "#bateri #ritim #duygu #çalma",
+        "type": "image",
+        "views": 25
+      },
+      {
+        "media": "user4_post_music.jpg",
+        "note": "Ses eÄŸitimi doÄŸru nefes almayÄ± gerektirir.",
+        "hashtags": "#ses #nefes #eğitim #doğru",
+        "type": "image",
+        "views": 12
+      },
+      {
+        "media": "user4_post_music.jpg",
+        "note": "Müzik teorisi kompozisyon iÅŸin temeldir.",
+        "hashtags": "#müzikteorisi #kompozisyon #temel #sanat",
+        "type": "image",
+        "views": 16
+      },
+      {
+        "media": "user4_post_music.jpg",
+        "note": "Orkestra yönetimi liderlik becerisi gerektirir.",
+        "hashtags": "#orkestra #liderlik #yönetim #beceri",
+        "type": "image",
+        "views": 20
+      },
+      {
+        "media": "user4_post_music.jpg",
+        "note": "Jazz müziÄŸi doÄŸaÄŸlama teknikleri kullanÄ±r.",
+        "hashtags": "#jazz #doÄŸaÄŸlama #teknik #müzik",
+        "type": "image",
+        "views": 14
+      },
+      {
+        "media": "user4_post_music.jpg",
+        "note": "Klasik müzik yorumlamak tarihsel baÄŸlam gerektirir.",
+        "hashtags": "#klasikmüzik #tarih #yorumlama #bağlam",
+        "type": "image",
+        "views": 17
+      },
+      {
+        "media": "user4_post_music.jpg",
+        "note": "Opera sanatı ses ve sahne performansını birleştirir.",
+        "hashtags": "#opera #ses #sahne #performans",
+        "type": "image",
+        "views": 21
+      },
+      {
+        "media": "user4_post_music.jpg",
+        "note": "Rock müziği elektrik gitar teknikleri kullanır.",
+        "hashtags": "#rock #elektrikgitar #teknik #müzik",
+        "type": "image",
+        "views": 24
+      },
+      {
+        "media": "user4_post_music.jpg",
+        "note": "Blues müziği duygusal ifade teknikleri içerir.",
+        "hashtags": "#blues #duygusal #ifade #teknik",
+        "type": "image",
+        "views": 16
+      },
+      {
+        "media": "user4_post_music.jpg",
+        "note": "Folk müziği geleneksel enstrümanlar kullanır.",
+        "hashtags": "#folk #geleneksel #enstrüman #müzik",
+        "type": "image",
+        "views": 13
+      },
+      {
+        "media": "user4_post_music.jpg",
+        "note": "Pop müziği modern kayıt teknikleri gerektirir.",
+        "hashtags": "#pop #modern #kayıt #teknik",
+        "type": "image",
+        "views": 19
+      }
+    ],
+    "following_list": [
+      "user2",
+      "user5"
+    ],
+    "followers_list": [
+      "user1"
+    ],
+    "likes": [
+      {
+        "post_owner": "user2",
+        "media": "user2_post_physics.jpg",
+        "note": "Fizik dersinde yer Ã§ekimi kuvvetini Ã¶ÄŸrendik.",
+        "hashtags": "#fizik #yerÃ§ekimi",
+        "type": "image",
+        "liked": true,
+        "views": 4
+      },
+      {
+        "post_owner": "user5",
+        "media": "user5_post_football.jpg",
+        "note": "Futbol takÄ±mÄ± bu sezon yenilgi almadÄ±.",
+        "hashtags": "#futbol #galibiyet",
+        "type": "image",
+        "liked": false,
+        "views": 10
+      }
+    ]
+  },
+  "user5": {
+    "email": "user5@gmail.com",
+    "password": "123456",
+    "profile_photo": "",
+    "followers": 2,
+    "following": 1,
+    "posts": [
+      {
+        "media": "user5_post_art.jpg",
+        "note": "Resim yaparken renk uyumu Ã¶nemlidir.",
+        "hashtags": "#resim #renk",
+        "type": "image",
+        "views": 28
+      },
+      {
+        "media": "user5_post_art.jpg",
+        "note": "Fırça tekniÄŸi yaÅŸlÄ± boya kullanÄ±mÄ±nÄ± etkiler.",
+        "hashtags": "#fırça #teknik",
+        "type": "image",
+        "views": 24
+      },
+      {
+        "media": "user5_post_art.jpg",
+        "note": "Perspektif Ã§izimde derinlik hissi yaratÄ±r.",
+        "hashtags": "#perspektif #derinlik",
+        "type": "image",
+        "views": 31
+      },
+      {
+        "media": "user5_post_art.jpg",
+        "note": "Portre Ã§izerken oranlar kritiktir.",
+        "hashtags": "#portre #oran",
+        "type": "image",
+        "views": 26
+      },
+      {
+        "media": "user5_post_art.jpg",
+        "note": "Suluboya tekniÄŸi su miktarÄ±na baÄŸlÄ±dÄ±r.",
+        "hashtags": "#suluboya #su",
+        "type": "image",
+        "views": 29
+      },
+      {
+        "media": "user5_post_art.jpg",
+        "note": "Karakalem Ã§izimde gölge teknikleri Ã¶nemlidir.",
+        "hashtags": "#karakalem #gölge",
+        "type": "image",
+        "views": 22
+      },
+      {
+        "media": "user5_post_art.jpg",
+        "note": "Kompozisyon düzeni görsel dengeyi saÄŸlar.",
+        "hashtags": "#kompozisyon #denge",
+        "type": "image",
+        "views": 27
+      },
+      {
+        "media": "user5_post_art.jpg",
+        "note": "Abstrakt sanatta duygusal ifade Ã¶nemlidir.",
+        "hashtags": "#abstrakt #duygu",
+        "type": "image",
+        "views": 25
+      },
+      {
+        "media": "user5_post_art.jpg",
+        "note": "Manzara resimlerinde atmosfer yaratmak kritiktir.",
+        "hashtags": "#manzara #atmosfer",
+        "type": "image",
+        "views": 30
+      },
+      {
+        "media": "user5_post_art.jpg",
+        "note": "Sanat tarihi bilgisi yorumlama becerisini geliÅŸtirir.",
+        "hashtags": "#sanattarihi #yorum",
+        "type": "image",
+        "views": 23
+      }
+    ],
+    "following_list": [
+      "user3"
+    ],
+    "followers_list": [
+      "user3",
+      "user4"
+    ],
+    "likes": [
+      {
+        "post_owner": "user3",
+        "media": "user3_post_chemistry.jpg",
+        "note": "Kimyasal tepkimeler sÄ±rasÄ±nda Ä±sÄ± aÃ§Ä±ÄŸa Ã§Ä±kar.",
+        "hashtags": "#kimya #tepkime",
+        "type": "image",
+        "liked": true,
+        "views": 9
+      },
+      {
+        "post_owner": "user4",
+        "media": "user4_post_space.jpg",
+        "note": "Uzay araÅŸtÄ±rmalarÄ± insanlÄ±k iÃ§in yeni bir Ã§aÄŸÄ± baÅŸlatabilir.",
+        "hashtags": "#uzay #araÅŸtÄ±rma",
+        "type": "image",
+        "liked": true,
+        "views": 8
+      }
+    ]
+  },
+  "fff": {
+    "email": "ff@gmail.com",
+    "password": "12345678",
+    "profile_photo": "",
+    "followers": 0,
+    "following": 0,
+    "posts": []
+  }
+}

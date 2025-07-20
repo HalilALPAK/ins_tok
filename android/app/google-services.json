@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910236109160",
+    "project_id": "instok-15bdd",
+    "storage_bucket": "instok-15bdd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910236109160:android:672cc9e878ee740a7f6edd",
+        "android_client_info": {
+          "package_name": "com.example.instok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNSlqnvL1RKrKbwf9XdJLqp64sC10lkjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
