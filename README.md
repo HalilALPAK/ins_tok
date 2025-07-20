@@ -55,7 +55,3 @@ Bu proje, Flask tabanlı bir sosyal medya uygulamasıdır. Kullanıcılar kayıt
 - `users.json` dosyası UTF-8 formatında olmalıdır. Türkçe karakter desteği için dosya okuma/yazma işlemlerinde `encoding="utf-8"` kullanılır.
 - API uç noktaları CORS desteklidir.
 
-## Katkı ve Lisans
-
-- Katkıda bulunmak için pull request gönderebilirsiniz.
-- Bu proje MIT lisansı ile lisanslanmıştır.
